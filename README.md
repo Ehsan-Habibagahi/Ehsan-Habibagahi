@@ -1,16 +1,18 @@
-## Hi there 👋
-
-<!--
-**Ehsan-Habibagahi/Ehsan-Habibagahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![header image](header.gif)
+```php
+$status = [
+  'me' => [
+    'full_name' => "Ehsan Habibagahi",
+    'hobbies' => ["book","podcast","gym","surfing the web"],
+    'language' => ["English","Persian"],
+    'currently'=> Employment::READY_TO_HIT_THE_GROUND_RUNNING
+  ],
+  'education' => [
+    'major' => "Computer Science",
+    'university' => "Shahid Beheshti University",
+    'degree' => "BSc - undergraduate",
+  ]
+];
+```
+[![](https://github-profile-trophy.vercel.app/?username=ehsan-habibagahi&theme=tokyonight&title=Experience,Commits,Followers,PullRequest,Stars,Repositories)](#)
+[![](https://komarev.com/ghpvc/?username=Ehsan-Habibagahi&color=2ac3de&label=PROFILE+VIEWS&style=for-the-badge)](#)
