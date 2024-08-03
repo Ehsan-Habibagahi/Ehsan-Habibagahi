@@ -1,6 +1,6 @@
 <!--![](header1.gif)-->
 <!-- <img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>-->
-<img src= "https://github.com/user-attachments/assets/90f955d7-bf50-4ace-945d-be7a836b7718" width = "100%"/>
+<img src= "header-black.gif" width = "100%"/>
 
 ### <img src="bear.webp" width = "40"> A little more about me
 ```php 
