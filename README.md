@@ -1,6 +1,5 @@
-![asdf](header1.gif)
-
-<!--<img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>-->
+<!--![](header1.gif)-->
+<img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>
 ### <img src="bear.webp" width = "40"> A little more about me
 ```php 
 namespace Habibagahi;
