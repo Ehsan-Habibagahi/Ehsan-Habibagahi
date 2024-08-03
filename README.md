@@ -1,7 +1,7 @@
 ![asdf](header1.gif)
 
 <!--<img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>-->
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E1eDhzd2VxeGl3MHVqam5zeGpqbnAwaXN6bnFkYXg5b3M3YXVrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IXy6NH9vKFIzLlhtPr/giphy.webp" width = "40"> A little more about me
+### <img src="bear.webp" width = "40"> A little more about me
 ```php 
 namespace Habibagahi;
 $about = [
@@ -19,7 +19,7 @@ $about = [
 ];
 ```
 [![](https://github-profile-trophy.vercel.app/?username=ehsan-habibagahi&theme=juicyfresh&title=Experience,Commits,Followers,PullRequest,Stars,Repositories)](#)
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGU0ZHZldTFrY3Jqd2g1Y2FtOG41eWxsajl4b3kwZ2w0dHU5OWVnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5LDR7W8tehFNovtx9d/giphy.webp" width = "40"> My tech stack
+### <img src="bear2.webp" width = "40"> My tech stack
 -----------
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
