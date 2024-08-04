@@ -6,16 +6,16 @@
 ```php 
 namespace Habibagahi;
 $about = [
-  'me' => [
-    'full_name' => "Ehsan Habibagahi",
-    'hobbies' => ["book","podcast","gym","surfing the web"],
-    'language' => ["English","Persian"],
-    'currently'=> Status::STUDYING
+  'me🧸' => [
+    'full_name👤' => "Ehsan Habibagahi",
+    'hobbies🏓' => ["book","podcast","gym","surfing the web"],
+    'language🗣️' => ["English","Persian"],
+    'currently✅'=> Status::STUDYING
   ],
-  'education' => [
-    'major' => "Computer Science",
-    'university' => "Shahid Beheshti University",
-    'degree' => "BSc - undergraduate",
+  'education🎓' => [
+    'major🧪' => "Computer Science",
+    'university🏫' => "Shahid Beheshti University",
+    'degree🗞️' => "BSc - undergraduate",
   ]
 ];
 ```
