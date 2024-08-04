@@ -2,7 +2,7 @@
 <!-- <img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>-->
 <img src= "header-black.gif" width = "100%"/>
 
-### <img src="bear.webp" width = "40"> A little bit more about me
+### <img src="bear.webp" width = "40"> About me
 ```php 
 namespace Habibagahi;
 $about = [
@@ -19,7 +19,6 @@ $about = [
   ]
 ];
 ```
-[![](https://github-profile-trophy.vercel.app/?username=ehsan-habibagahi&theme=juicyfresh&title=Experience,Commits,Followers,PullRequest,Stars,Repositories)](#)
 ### <img src="bear2.webp" width = "40"> My tech stack
 -----------
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
@@ -38,4 +37,7 @@ $about = [
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 ![Composer](https://img.shields.io/badge/Composer-333333?style=flat&logo=composer)
 
+<p align = "center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ehsan-habibagahi&theme=juicyfresh&title=Experience,Commits,Followers,PullRequest,Stars,Repositories"/>
+</p>
 [![](https://komarev.com/ghpvc/?username=Ehsan-Habibagahi&color=FFD60A&label=PROFILE+VIEWS&style=for-the-badge)](#)
