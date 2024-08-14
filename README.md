@@ -8,7 +8,7 @@ namespace Habibagahi;
 $about = [
   'me🧸' => [
     'full_name👤' => "Ehsan Habibagahi",
-    'hobbies🏓' => ["book","podcast","gym","surfing the web"],
+    'hobbies🏓' => ["music","book","podcast","gym","surfing the web"],
     'language🗣️' => ["English","Persian"],
     'currently✅'=> Status::STUDYING
   ],
