@@ -1,5 +1,3 @@
-<!--![](header1.gif)-->
-<!-- <img src= "https://github.com/user-attachments/assets/63f386c0-34d5-4e22-a541-cceddd9da22f" width = "100%"/>-->
 ![exp_2](https://github.com/user-attachments/assets/f019cefe-4cb8-4b60-b286-93c7904e408e)
 
 ### <img src="bear.webp" width = "40"> About me
