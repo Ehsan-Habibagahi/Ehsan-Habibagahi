@@ -2,7 +2,7 @@
 
 ### <img src="bear.webp" width = "40"> About me
 ```php 
-namespace Habibagahi;
+namespace Developer;
 $about = [
   'me🧸' => [
     'full_name👤' => "Ehsan Habibagahi",
